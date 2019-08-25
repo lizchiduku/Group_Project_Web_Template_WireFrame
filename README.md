@@ -7,4 +7,6 @@
 
 #Not sure why the search box is thin, working on getting it aligned with the nav bar
 
+#I will add a drop down for the locations
+
 

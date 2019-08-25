@@ -5,5 +5,6 @@
 
 3 boxes on the bottom of the page can be changed into single box, 2 boxes or we can mantain the 3 boxes as is then suggestions on what to put in there.
 
-#I know there have been suggestions to adding address section on the form, will do that before end of day
+#Not sure why the search box is thin, working on getting it aligned with the nav bar
+
 
